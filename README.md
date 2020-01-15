@@ -1,2 +1,2 @@
 # la-salt-mysql
-Linux Academy SaltStack Sertified Engineer Prep Cource
+Linux Academy SaltStack Sertified Engineer Prep Course
